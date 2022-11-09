@@ -1,0 +1,38 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//styling
+
+html{
+    background: #c5d8dc;
+}
+#app{
+    background: #c5d8dc;
+}
+
+.card-filters{
+    background: #d2e69c;
+}
+
+.card-img-header{
+    background: #dce3e7;
+}
+
+.card-my-reservation-active{
+    background-color: rgb(179, 255, 179);
+}
+
+.card-my-reservation-current{
+    background-color: rgb(179, 217, 255);
+}
+
+.card-my-reservation-history{
+    background-color: rgb(255, 135, 135);
+}
+
